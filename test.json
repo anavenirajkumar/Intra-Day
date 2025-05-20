@@ -1,7 +1,4 @@
-{
-    "declines": 335,
-    "unchanged": 2740,
-    "data": [
+
       {
         "metadata": {
           "symbol": "ZODIAC",
@@ -19,5 +16,4 @@
           "iep": 529.7,
           "chartTodayPath": "https://nsearchives.nseindia.com/today/preOpen_ZODIACEQN.svg"
         }
-}]
 }
