@@ -1,4 +1,23 @@
 {
     "declines": 335,
-    "unchanged": 2740
+    "unchanged": 2740,
+    "data": [
+      {
+        "metadata": {
+          "symbol": "ZODIAC",
+          "identifier": "ZODIACEQN",
+          "purpose": null,
+          "lastPrice": 529.7,
+          "change": 88.25,
+          "pChange": 19.99,
+          "previousClose": 441.45,
+          "finalQuantity": 8780,
+          "totalTurnover": 4650766,
+          "marketCap": "-",
+          "yearHigh": 816.5,
+          "yearLow": 318.8,
+          "iep": 529.7,
+          "chartTodayPath": "https://nsearchives.nseindia.com/today/preOpen_ZODIACEQN.svg"
+        }
+}]
 }
